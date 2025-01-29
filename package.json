@@ -13,6 +13,7 @@
   "description": "",
   "devDependencies": {
     "@egoist/tailwindcss-icons": "^1.8.2",
+    "@faker-js/faker": "^9.4.0",
     "@iconify-json/material-symbols": "^1.2.12",
     "browser-sync": "^3.0.3",
     "concurrently": "^9.1.2",
